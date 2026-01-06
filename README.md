@@ -17,11 +17,6 @@ Run automatically in background
 
 AI-based battery usage prediction
 
-👤 Author
-
-Naveen Varadharajan
-GitHub: @Naveen-Varadharajan
-
 ⭐ Acknowledgement
 
 This project was created as part of learning Python system utilities and automation.
